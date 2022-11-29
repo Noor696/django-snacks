@@ -22,3 +22,4 @@ https://github.com/Noor696/django-snacks
 **Pull Request**
 
 https://github.com/Noor696/django-snacks/pull/2
+https://github.com/Noor696/django-snacks/pull/3
